@@ -1,4 +1,4 @@
-using Lodowka.Data;
+using Lodowka.Persistance.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 

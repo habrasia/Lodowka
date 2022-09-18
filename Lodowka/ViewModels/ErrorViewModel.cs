@@ -1,4 +1,4 @@
-namespace Lodowka.Models
+namespace Lodowka.Web
 {
     public class ErrorViewModel
     {

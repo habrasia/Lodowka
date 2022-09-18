@@ -1,8 +1,7 @@
-﻿using Lodowka.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Lodowka.Controllers
+namespace Lodowka.Web.Controllers
 {
     public class HomeController : Controller
     {

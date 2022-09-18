@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
-namespace Lodowka.Areas.Identity.Pages.Account
+namespace Lodowka.Web.Areas.Identity.Pages.Account
 {
     public class LogoutModel : PageModel
     {

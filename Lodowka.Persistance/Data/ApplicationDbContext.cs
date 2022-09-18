@@ -10,6 +10,7 @@ namespace Lodowka.Persistance.Data
             : base(options)
         {
         }
+
         public DbSet<Fridge> Fridges { get; set; }
         public DbSet<Product> AvailableProducts { get; set; }
         public DbSet<Recipe> Recipe { get; set; }
